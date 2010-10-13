@@ -1,0 +1,50 @@
+/* Biggest Loser contest */
+
+#challengeInfo {
+	background-color: #EDEDED;
+	border: 1px solid #CCC;
+	overflow: hidden;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+#challengeInfo p {
+	padding: 4px;
+}
+
+#contestContainer h2 {
+	color: rgb(20, 20, 20);
+	color: rgba(20, 20, 20, 0.55);
+	margin-top: 0.33em;
+	text-shadow: 0px 1px 0px rgba(220, 220, 220, 0.5);
+	text-transform: uppercase;
+}
+
+#contestContainer div.block {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+#contestContainer .Carrie {
+	background-color: green;
+}
+
+#contestContainer .Alan {
+	background-color: yellow;
+}
+
+#contestContainer .Amy {
+	background-color: red;
+}
+
+#contestContainer .Karl {
+	background-color: DeepSkyBlue;
+}
+
+#contestContainer .eliminated {
+	opacity: 0.3;
+}
+
+#footer {
+	margin: 14px 0px;
+}
