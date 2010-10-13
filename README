@@ -1,0 +1,13 @@
+RealityShowTracker? is a simple webapp that can be used to "play along" with any number of reality tv shows.
+
+The basic idea is to get a group of friends together and randomly assign the reality show's contestants to your group. Decide what the person wins if their contestant is the last one standing in the end, and then use the RealityShowTracker? webpage to track the progress during the season!
+
+Note: The tracking part is manual, so appoint one or more people in your group as the "admin(s)" that will update the results after each week of the reality tv show you are tracking.
+
+Check out a demo, based on Season 10 of NBC's Biggest Loser:
+
+http://www.alanswitzer.com/biggestloser10/
+
+Project webpage:
+
+http://ampedwebstandards/projects/realityshowtracker/
